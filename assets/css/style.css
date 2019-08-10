@@ -19,6 +19,7 @@ header {
 .body-container {
     width: 908px;
     margin: 0 auto;
+    overflow: scroll;
 }
 #bio-image {
     float: left;
@@ -53,6 +54,7 @@ footer p {
     background: #ffffff;
     padding: 25px;
     border: 1px solid #dddddd;
+    margin-bottom:100px;
 }
 .about h1{
     color: #4aaaa5;
